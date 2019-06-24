@@ -15,10 +15,6 @@
     "encode",
     "decode"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/anthonykirby/lora-packet.git"
-  },
   "bugs": {
     "url": "https://github.com/anthonykirby/lora-packet/issues"
   },
